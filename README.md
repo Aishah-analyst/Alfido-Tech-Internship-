@@ -9,6 +9,7 @@ Sales dataset obtained from Kaggle.
 - Microsoft Excel (2013+)
 - - Pivot Tables & Pivot Charts
 - - Slicers for interactivity
+- - Dashboard for visual representation and interactive analysis
 
 
 ### Data Cleaning / Preparation
