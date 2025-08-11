@@ -2,6 +2,8 @@
 ### Project Overview
 This project is an interactive Excel dashboard designed to analyze and visualize sales performance data. It tracks KPIs, identifies trends, and provides actionable insights on product, region, customer segment, and delivery performance for the years 2015–2018.
 
+<img width="660" height="374" alt="Screenshot 2025-08-09 061628" src="https://github.com/user-attachments/assets/f982fa40-93fc-48c4-99a2-58aa030a27e6" />
+
 ### Data Sources
 Sales dataset obtained from Kaggle.
 
